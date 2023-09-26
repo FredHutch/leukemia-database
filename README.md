@@ -81,9 +81,7 @@ DoDebug = False # or DoDebug = True
     C:/Users/cmshaw/OneDrive - Fred Hutchinson Cancer Research Center
     
     3.8.5 (default, Sep  3 2020, 21:29:08) [MSC v.1916 64 bit (AMD64)]
-    2023-09-22 10:39:00
-    {'ini_section': 'hutchemail', 'user': 'cmshaw@fredhutch.org', 'password': 'WarHammer-2022', 'today': '20230922'}
-    
+    2023-09-22 10:39:00    
 
 # MySQLEngine Class utilizing Data Connection Class
 
